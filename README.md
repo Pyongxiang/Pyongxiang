@@ -34,7 +34,7 @@
 ## 📬 Connect With Me  
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/phuayongxiang1" target="_blank">
+  <a href="https://www.linkedin.com/in/phua-yong-xiang1" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
   </a>
   <a href="mailto:phuayx1@gmail.com">

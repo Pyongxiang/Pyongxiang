@@ -45,3 +45,5 @@
 ---
 
 🚀 *Always excited to learn and collaborate on new projects!* 🚀
+
+<img src="https://github-readme-stats.vercel.app/api?username=Pyongxiang&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="Pyongxiang's GitHub Stats" />

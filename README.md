@@ -15,7 +15,7 @@
 💡 Skilled in **HTML, CSS, JavaScript, SQL, Photoshop, Adobe XD, Figma, Node.js, PowerPoint, and Canva**  
 🤝 Strong in **communication, adaptability, and teamwork**  
 
-📚 Currently learning **Microsoft Azure SQL** for cloud database management & **Blender** for 3D design.  
+📚 Currently learning **Microsoft Azure SQL** for cloud database management.  
 🎯 My goal is to **enhance my backend development skills** and build scalable **full-stack applications**.  
 🎲 Fun fact: I love refining UI designs to make them more intuitive and visually appealing!  
 
